@@ -9,7 +9,7 @@ Unlike the Node.js Basics assignment where you practiced APIs in isolation, here
 ## Technical requirements
 
 - Any external tools and libraries are prohibited
-- Use 24.x.x version (24.10.0 or upper) of Node.js
+- Use 24.x.x ver. (24.10.0 or upper) of Node.js
 - All file operations must use **Streams API** for efficiency (do not read entire files into memory)
 - Prefer asynchronous API whenever possible
 - The program should be an interactive REPL (Read-Eval-Print Loop)
