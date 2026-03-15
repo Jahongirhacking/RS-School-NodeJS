@@ -1,0 +1,21 @@
+{
+  "name": "rs-school-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Jahongirhacking/RS-School-NodeJS#readme",
+  "bugs": {
+    "url": "https://github.com/Jahongirhacking/RS-School-NodeJS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jahongirhacking/RS-School-NodeJS.git"
+  },
+  "license": "ISC",
+  "author": "Jahongir Hayitov",
+  "type": "module",
+  "main": "./src/main.js",
+  "scripts": {
+    "start": "node ./src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
